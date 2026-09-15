@@ -58,7 +58,7 @@ Includes features not yet on the store: LMS support, Market Insights charts.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/david-dirring/fifa-ticket-scout.git
+   git clone https://github.com/aster-go/fifa-ticket-scout.git
    ```
 2. Open `chrome://extensions` in Chrome
 3. Enable **Developer mode** (top right toggle)
